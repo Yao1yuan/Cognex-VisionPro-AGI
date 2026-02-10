@@ -7,13 +7,13 @@ This suite was packaged by Claude's VisionPro Expert skill.
 ## Components
 
 - **`VppDriver/`**: Contains the C# source code for the server application (`VppDriver.exe`).
-- **`Client/`**: Contains the Python script `vpp_controller.py`, a command-line client for communicating with the VppDriver server.
 - **`VppProject/`**: Contains the example VisionPro project file, `test.vpp`.
 - **`claude_skill/`**: Contains the complete source for the `visionpro-expert` skill, ready to be used with the Claude Code CLI.
 
 ---
 
 ## Setup and Installation
+### 0.Install Claude code
 
 ### 1. Compile the C# Server
 - You need **Visual Studio** with .NET Framework development tools installed.
